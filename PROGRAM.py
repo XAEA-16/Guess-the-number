@@ -25,3 +25,4 @@ while True:
     else:
       count+=1
       print(f"you where close the number was {b}")
+      print(" try again")
